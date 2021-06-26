@@ -1,2 +1,2 @@
-# clas20
-BLOCK
+# collisionAlgorithm
+Algorithm to detect collision between two objects
